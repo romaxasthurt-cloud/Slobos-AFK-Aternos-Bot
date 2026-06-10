@@ -1,39 +1,39 @@
 {
-  "name": "AFK Bot",
+  "name": "1488xx",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "1488xx",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "xasthurt333.aternos.me",
+    "port": 55657,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 1488,
     "y": 100,
-    "z": 0
+    "z": 1488
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "gay1488"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm hate niggers",
+        "i hate jews!",
+        "I like cum"
       ]
     },
     "chat-log": true,
@@ -70,7 +70,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": false
+    "place-night": true
   },
   "discord": {
     "enabled": false,
